@@ -33,7 +33,9 @@ The data was one Excel spreadsheet file provided by TripleTen.:
 - `'Sleep.xls'`: each row corresponds to one individuals sleep and behavavior.
 
 #### Assumptions
-
+- Exercise Frequency is reported as days per week
+- Alcohol consumption is reported as drinks per week
+- Smoking status is reported as regularly smoking, not casual smoking. 
 
 #### Findings & Recommendations
 Awakenings help explain the “why” behind variations in sleep efficiency by disrupting the balance between deep and light sleep. Since deep sleep and REM are the MVPs of rest and recovery, lifestyle habits matter. Gender is a negligible factor. It is into when combining gender with other factors that it makes a lot more sense and shows more definitive causes for sleep efficiency, Deep Sleep, and REM sleep. Regular exercise and cutting back on alcohol support better sleep quality—meanwhile, caffeine and smoking didn’t show the same impact (but don’t take that as a free pass!
