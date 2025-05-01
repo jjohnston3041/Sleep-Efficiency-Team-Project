@@ -29,10 +29,11 @@ The April Business Intelligence Analyst Code Pudding challenged participants to 
 #### Process
 
 #### Data
-The data was one Excel spreadsheet file provided by TripleTen.:
+The dataset selected by the team was one Excel spreadsheet file provided by TripleTen.:
 - `'Sleep.xls'`: each row corresponds to one individuals sleep and behavavior.
 
 #### Assumptions
+- The provided datasets were separate studies and should not be joined to analyze
 - Exercise Frequency is reported as days per week
 - Alcohol consumption is reported as drinks per week
 - Smoking status is reported as regularly smoking, not casual smoking. 
