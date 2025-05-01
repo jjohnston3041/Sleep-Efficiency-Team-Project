@@ -10,7 +10,7 @@ The April Business Intelligence Analyst Code Pudding challenged participants to 
  | 3 |  [YouTube Stream](https://www.youtube.com/live/qeavLBLIqFA)| Link to the YouTube stream of contestant presentations. |
 
 
- ## README Table of Contents ##
+ ## Table of Contents ##
 | File #  | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Explaination of Sleep Efficiency by James](https://github.com/jjohnston3041/Sleep-Efficiency-Team-Project/blob/main/James%20J%20Sleep%20Efficency%20Project.twbx)| Awakenings impact the "why" of sleep efficienct (Deep/light sleep cycle) which in turn impacts sleep efficiency.|
