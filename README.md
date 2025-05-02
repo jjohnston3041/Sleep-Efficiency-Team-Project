@@ -36,7 +36,11 @@ The dataset selected by the team was one Excel spreadsheet file provided by Trip
 - The provided datasets were separate studies and should not be joined to analyze
 - Exercise Frequency is reported as days per week
 - Alcohol consumption is reported as drinks per week
-- Smoking status is reported as regularly smoking, not casual smoking. 
+- Smoking status is reported as regularly smoking, not casual smoking.
+- Sleep efficiency is based on a scale where 1 would equal 100% sleep efficiency.
+- REM, Deep Sleep, and Light Sleep Percentage is 0-100 with 100 being the best. 
 
 #### Findings & Recommendations
 Awakenings help explain the “why” behind variations in sleep efficiency by disrupting the balance between deep and light sleep. Since deep sleep and REM are the MVPs of rest and recovery, lifestyle habits matter. Gender is a negligible factor. It is into when combining gender with other factors that it makes a lot more sense and shows more definitive causes for sleep efficiency, Deep Sleep, and REM sleep. Regular exercise and cutting back on alcohol support better sleep quality—meanwhile, caffeine and smoking didn’t show the same impact-but don’t take that as a free pass!
+Upon looking at Gender more closely it is not a viable factor into whether someone sleeps better or not. we found that the differnce betwen "male" and "female" throughout all the data, all difference were negligible (minus caffiene consumption). Gender is only a viable option if you combine it with other factors, like Gender AND age showed more difference and actionable data that should have a finer scope on it. 
+The team also found that both "wake up time" and "bedtime" do not really matter in the great scheme of better sleep efficiency. we used a scatterplot to show every ID and their age with the scatter point being their amount of awakenings by sleep efficiency, the color of the point is their bed time/ wake time, witha trend line showing if there is any correlation or any outliers in the data. we found that there were not outliers and no real correlation. they only thing we found that as you get older, the more you awaken the worst your sleep effiency score is. 
