@@ -52,3 +52,5 @@ The team also found that both "wake up time" and "bedtime" do not really matter 
 Tableau Public Links to Individual Work
 
 Carl Lane Tableau Public - https://public.tableau.com/views/SleepEfficiencyDataSet_/GenderBiasinSleep?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Janna Gomez Tableau Public - https://public.tableau.com/app/profile/janna.gomez8157/vizzes
